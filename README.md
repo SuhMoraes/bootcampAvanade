@@ -7,7 +7,7 @@
 
 <p>
  BootCamp promovido pela Digital Innovation One, destinado as estudante que estão cursando ensino superior (Bacharel ou Tecnólogo) em exatas, 
- que queiram disputar uma das 80 vagas de estágio numa das maiores Multinacionais Tecnológicas do mercado.
+ e queiram disputar uma das 80 vagas de estágio numa das maiores Multinacionais Tecnológicas do mercado.
 </p>
 
 <h2 align="center">Projetos do BootCamp</h2>
