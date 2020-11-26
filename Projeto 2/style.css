@@ -1,0 +1,55 @@
+
+body {
+  background: #e5e5e5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 80%;
+  margin: auto;
+}
+
+p, h1, h2 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+  text-transform: capitalize;
+}
+
+img {
+  border: 1px solid #edf2fb;
+  border-radius: 10px;
+}
+
+#title{
+ background-color: #edf2fb;
+ border: 1px solid #edf2fb;
+ margin: 10px;
+ padding: 10px;
+ border-radius: 10px;
+ 
+}
+
+.subtitle{
+  font-size: 16px;
+  font-style: italic;  
+}
+
+.post-title{
+  background-color: #edf2fb;
+  border: 1px solid #edf2fb;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.content-list {
+  list-style-type: none;
+  padding: 2px;
+}
+.down-footer {
+  background: #b6ccfe;
+  padding: 5px;
+  margin: 10px;
+ 
+}
