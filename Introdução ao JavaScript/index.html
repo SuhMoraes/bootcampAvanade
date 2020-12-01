@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+
+    <!-- Inserção do JavaScript na página HTML -->
+    <script type="text/javascript" src="js/main.js"></script>
+
+    <title>Minha página</title>
+   
+  </head>
+  <body onload="load()">    
+   <button type="button" onclick="clicou()">Clique Aqui</button>
+   <h3 id="agradecimento" onclick="redirecionar()"></h3>
+   <p id="mousemove" onmouseover="trocar(this)" onmouseout="voltar(this)">Passe o mouse aqui</p>
+   <p id="mousemove2" onmouseover="trocar(this)" onmouseout="voltar(this)">Passe o mouse aqui</p>
+   <select onchange="funcaoChange(this)" name="" id="">
+     <option value="1">Valor 1</option>
+     <option value="2">Valor 2</option>
+     <option value="3">Valor 3</option>
+   </select>
+
+
+  </body>
+
+</html>

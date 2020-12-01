@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="suhal"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-11-19 08:23:53 "/>
+        <attribute name="created" value="c3VoYWw7REVTS1RPUC05VDkzMDhPOzIwMjAtMTEtMTk7IjA4OjE2OjM3ICI7Mjc1Mg=="/>
+        <attribute name="edited" value="c3VoYWw7REVTS1RPUC05VDkzMDhPOzIwMjAtMTEtMTk7IjA4OjIzOjUzICI7MTsyODU2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="number, limit" type="Integer" array="False" size=""/>
+            <assign variable="number" expression="0"/>
+            <assign variable="limit" expression="20"/>
+            <while expression="number&lt;=limit">
+                <output expression="&quot;Your current count: &quot;&amp;number" newline="True"/>
+                <assign variable="number" expression="number+2"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
