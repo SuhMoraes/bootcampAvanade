@@ -1,5 +1,5 @@
 
-![BootCamp Avanade](https://github.com/SuhMoraes/bootcampAvanade/blob/master/decola%20dev.jpg)
+
 
 <h1 align="center">
   <a href="https://digitalinnovation.one/bootcamps/decola-dev-avanade-2021">BootCamp Decola Dev Avanade 🚀</a>
