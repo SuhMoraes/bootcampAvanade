@@ -4,7 +4,7 @@
   --vermelho: #e50914;
   --preto: #141414;
 }
-
+ /* Elementos base */
 *{
   margin: 0;
   padding: 0;
@@ -14,13 +14,14 @@
 body {
   background: var(--preto);
   font-family: 'Times New Roman', Times, serif;
+  color: #fff;
 }
 
 header .container{
   display: flex;
   align-items: center;
   justify-content: space-between;
- 
+  
 }
 
 header .logo{
@@ -38,4 +39,24 @@ header nav a{
 header nav a:hover{
   color: #fff;  
 }
-  
+
+/* imigração principal */
+.imigracao-principal {
+  font-size: 1rem;
+  background:linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)100%), url(../img/imigracao3.jpg);
+
+  height: 25rem;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.imigracao-principal .descricao {
+ margin-bottom: 2.5rem;
+}
+.titulo{
+  font-size: 2rem;
+}
