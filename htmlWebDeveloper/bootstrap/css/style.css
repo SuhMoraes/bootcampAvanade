@@ -1,0 +1,37 @@
+body{
+  font: arial, serif;
+}
+
+.navbar{
+  background-color: #BBD5ED;
+}
+
+#quem-somos{
+  background-color: #A288E3;
+  color: #fff; 
+}
+
+.margin{  
+  padding: 3rem 0 1rem;
+  height: 100%;
+}
+
+.lugares{
+  background: #BBD5ED;
+}
+.lugares h3{
+  color: #38023B;
+}
+
+.fotos{
+   margin-bottom: 3rem;
+   color: #A288E3;
+}
+.fotos h3{
+  color: #38023B;
+}
+
+.bg-footer{
+  background-color: #000;
+  color: #fff;
+}
